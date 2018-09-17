@@ -1,0 +1,51 @@
+{
+    "theme": "dark",
+    "exercises": [
+        {
+            "id": "06cee1b0-9620-11e8-8bca-134289c9ad7e",
+            "name": "Core",
+            "objects": [
+                {
+                    "name": "Count",
+                    "time": 5000
+                },
+                {
+                    "name": "Kos",
+                    "time": 60000
+                }
+            ]
+        },
+        {
+            "id": "253fd9b0-9620-11e8-ba01-61009fc87c0e",
+            "name": "Hmm",
+            "objects": [
+                {
+                    "name": "",
+                    "time": 5000
+                }
+            ]
+        }
+    ],
+    "exerciseStats": [
+        {
+            "name": "Hmm",
+            "startTime": 1537174844796,
+            "endTime": 1537174849801
+        }
+    ],
+    "workoutStats": [
+        {
+            "name": "Tir",
+            "startTime": 1537174819960,
+            "endTime": 1537174822658
+        }
+    ],
+    "workouts": [
+        {
+            "name": "Tir",
+            "exercises": [
+                "06cee1b0-9620-11e8-8bca-134289c9ad7e"
+            ]
+        }
+    ]
+}
